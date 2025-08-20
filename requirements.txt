@@ -1,0 +1,9 @@
+git clone https://github.com/Fiza09-J/Practice-git.git
+cd Practice-git
+git status
+git add .
+git commit -m "Initial commit with project files"
+git push origin main
+git branch
+git branch dev
+git push origin dev
